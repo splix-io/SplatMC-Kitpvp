@@ -1,0 +1,28 @@
+
+
+
+#CoolDown
+DailyChallangeCooldown: '&cYou cant do this yet!'
+LobbySpawnSet: '&aSet &dLobby &aSpawn Point!'
+ChallangeSpawnSet: '&aSet &dChallange &aSpawn Point'
+DailyChallangeFail: '&cYou have failed the Daily Challange'
+
+#Location - Challange
+Slocationx: 0
+Slocationy: 0
+Slocationz: 0
+1Locationx: 0
+1Locationy: 0
+1Locationz: 0
+1Rangex: 0
+1Rangez: 0
+
+#Location - Dual
+Dual:
+  Dual1:
+    x1: 0
+    y2: 0
+    z3: 0
+    x2: 0
+    y2: 0
+    z2: 0
